@@ -1,1 +1,3 @@
-Name: Chanchon Pansuwan
+Name : Chanchon Pansuwan
+Weight (kg.): 53
+Height (cm.): 171
